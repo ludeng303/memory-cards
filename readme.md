@@ -4,7 +4,7 @@ Working with:
 - JS objects
 
 ## Memory Cards
-Live link: https://ludeng303.github.io/memory-cards/
+Live link: https://xiaolu-ignite.github.io/memory-cards/
 
 Flash card app for learning. Display, add and remove memory cards with questions and answers
 
